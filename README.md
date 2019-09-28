@@ -2,6 +2,10 @@
 
 Main repo: https://github.com/ThomasGITH/Mythe---project
 
+Genre; Endless runner.
+
+Platform; Android mobile phones.
+
 A project dedicated to different heroes or villains from any mythology.
 
 We chose a myth called; "Hel". 
