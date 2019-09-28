@@ -6,6 +6,8 @@ Genre; Endless runner.
 
 Platform; Android mobile phones.
 
+In this repository, you could find the code that I made for this project.
+
 A project dedicated to different heroes or villains from any mythology.
 
 We chose a myth called; "Hel". 
